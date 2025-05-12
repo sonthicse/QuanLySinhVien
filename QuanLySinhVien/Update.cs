@@ -30,7 +30,7 @@
         private void ButtonLuu_Click(object? sender, EventArgs e)
         {
             updateSinhVien.HoTen = textBoxHoVaTen.Text;
-            updateSinhVien.NgaySinh = dateTimePicker.Value.ToString("yyyy-MM-dd");
+            updateSinhVien.NgaySinh = dateTimePicker.Value.ToString("dd/MM/yyyy");
             updateSinhVien.QuocTich = comboBoxQuocTich.SelectedItem?.ToString() ?? string.Empty;
             updateSinhVien.Lop = comboBoxLop.SelectedItem?.ToString() ?? string.Empty;
             updateSinhVien.GioiTinh = radioButtonNam.Checked ? "Nam" : "Nữ";

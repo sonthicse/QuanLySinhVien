@@ -199,7 +199,7 @@ partial class GUI
         dataGridView = new DataGridView
         {
             Location = new Point(50, 300),
-            Size = new Size(1400, 500),
+            Size = new Size(1400, 520),
             Font = new Font("Arial", 12),
             Columns =
             {
@@ -213,8 +213,13 @@ partial class GUI
             AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill,
             SelectionMode = DataGridViewSelectionMode.FullRowSelect,
             MultiSelect = false,
+            ReadOnly = true,
+            TabStop = false,
             AllowUserToAddRows = false,
-            ReadOnly = true
+            AllowUserToDeleteRows = false,
+            AllowUserToResizeRows = false,
+            AllowUserToResizeColumns = false,
+            AllowUserToOrderColumns = false
         };
     }
 
