@@ -29,3 +29,4 @@ C:\Users\duong\OneDrive\ANHTTT59(CLC)\Ky thuat lap trinh\C Sharp\QuanLySinhVien\
 C:\Users\duong\OneDrive\ANHTTT59(CLC)\Ky thuat lap trinh\C Sharp\QuanLySinhVien\QuanLySinhVien\bin\Debug\net9.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\duong\OneDrive\ANHTTT59(CLC)\Ky thuat lap trinh\C Sharp\QuanLySinhVien\QuanLySinhVien\obj\Debug\net9.0-windows\QuanLySinhVien.csproj.AssemblyReference.cache
 C:\Users\duong\OneDrive\ANHTTT59(CLC)\Ky thuat lap trinh\C Sharp\QuanLySinhVien\QuanLySinhVien\obj\Debug\net9.0-windows\QuanLySi.3CF0D20D.Up2Date
+C:\Users\duong\OneDrive\ANHTTT59(CLC)\Ky thuat lap trinh\C Sharp\QuanLySinhVien\QuanLySinhVien\obj\Debug\net9.0-windows\QuanLySinhVien.sourcelink.json
