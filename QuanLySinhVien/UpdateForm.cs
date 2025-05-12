@@ -1,6 +1,6 @@
 ﻿namespace QuanLySinhVien
 {
-    public partial class Update : Form
+    public partial class UpdateForm : Form
     {
         private SinhVien updateSinhVien;
 
@@ -21,7 +21,7 @@
         private Button buttonLuu;
         private Button buttonHuy;
 
-        public Update(SinhVien sinhVien)
+        public UpdateForm(SinhVien sinhVien)
         {
             this.updateSinhVien = sinhVien;
             InitializeComponent();

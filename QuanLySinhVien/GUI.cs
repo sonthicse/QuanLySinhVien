@@ -97,7 +97,7 @@ namespace QuanLySinhVien
                 return;
             }
 
-            Update updateForm = new Update(sinhVien);
+            UpdateForm updateForm = new UpdateForm(sinhVien);
             updateForm.ShowDialog();
             DatabaseHelper.LoadData(dataGridView);
 
@@ -135,6 +135,11 @@ namespace QuanLySinhVien
         private void ButtonLamMoi_Click(object sender, EventArgs e)
         {
             DatabaseHelper.LoadData(dataGridView);
+        }
+
+        private void MenuItemSearch_Click() {
+            SearchForm searchForm = new SearchForm(dataGridView);
+            searchForm.ShowDialog();
         }
     }
 }

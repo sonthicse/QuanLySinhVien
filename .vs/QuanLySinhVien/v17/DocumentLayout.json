@@ -3,32 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\duong\\OneDrive\\ANHTTT59(CLC)\\Ky thuat lap trinh\\C Sharp\\QuanLySinhVien\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D8B6B5A2-1F7C-4C4A-8B5C-5B5D5B5D5B5D}|QuanLySinhVien\\QuanLySinhVien.csproj|c:\\users\\duong\\onedrive\\anhttt59(clc)\\ky thuat lap trinh\\c sharp\\quanlysinhvien\\quanlysinhvien\\update.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8B6B5A2-1F7C-4C4A-8B5C-5B5D5B5D5B5D}|QuanLySinhVien\\QuanLySinhVien.csproj|solutionrelative:quanlysinhvien\\update.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8B6B5A2-1F7C-4C4A-8B5C-5B5D5B5D5B5D}|QuanLySinhVien\\QuanLySinhVien.csproj|c:\\users\\duong\\onedrive\\anhttt59(clc)\\ky thuat lap trinh\\c sharp\\quanlysinhvien\\quanlysinhvien\\gui.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8B6B5A2-1F7C-4C4A-8B5C-5B5D5B5D5B5D}|QuanLySinhVien\\QuanLySinhVien.csproj|solutionrelative:quanlysinhvien\\gui.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8B6B5A2-1F7C-4C4A-8B5C-5B5D5B5D5B5D}|QuanLySinhVien\\QuanLySinhVien.csproj|c:\\users\\duong\\onedrive\\anhttt59(clc)\\ky thuat lap trinh\\c sharp\\quanlysinhvien\\quanlysinhvien\\gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8B6B5A2-1F7C-4C4A-8B5C-5B5D5B5D5B5D}|QuanLySinhVien\\QuanLySinhVien.csproj|solutionrelative:quanlysinhvien\\gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8B6B5A2-1F7C-4C4A-8B5C-5B5D5B5D5B5D}|QuanLySinhVien\\QuanLySinhVien.csproj|c:\\users\\duong\\onedrive\\anhttt59(clc)\\ky thuat lap trinh\\c sharp\\quanlysinhvien\\quanlysinhvien\\update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8B6B5A2-1F7C-4C4A-8B5C-5B5D5B5D5B5D}|QuanLySinhVien\\QuanLySinhVien.csproj|solutionrelative:quanlysinhvien\\update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8B6B5A2-1F7C-4C4A-8B5C-5B5D5B5D5B5D}|QuanLySinhVien\\QuanLySinhVien.csproj|c:\\users\\duong\\onedrive\\anhttt59(clc)\\ky thuat lap trinh\\c sharp\\quanlysinhvien\\quanlysinhvien\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8B6B5A2-1F7C-4C4A-8B5C-5B5D5B5D5B5D}|QuanLySinhVien\\QuanLySinhVien.csproj|solutionrelative:quanlysinhvien\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8B6B5A2-1F7C-4C4A-8B5C-5B5D5B5D5B5D}|QuanLySinhVien\\QuanLySinhVien.csproj|c:\\users\\duong\\onedrive\\anhttt59(clc)\\ky thuat lap trinh\\c sharp\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D8B6B5A2-1F7C-4C4A-8B5C-5B5D5B5D5B5D}|QuanLySinhVien\\QuanLySinhVien.csproj|solutionrelative:quanlysinhvien\\quanlysinhvien.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8B6B5A2-1F7C-4C4A-8B5C-5B5D5B5D5B5D}|QuanLySinhVien\\QuanLySinhVien.csproj|c:\\users\\duong\\onedrive\\anhttt59(clc)\\ky thuat lap trinh\\c sharp\\quanlysinhvien\\quanlysinhvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8B6B5A2-1F7C-4C4A-8B5C-5B5D5B5D5B5D}|QuanLySinhVien\\QuanLySinhVien.csproj|solutionrelative:quanlysinhvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D8B6B5A2-1F7C-4C4A-8B5C-5B5D5B5D5B5D}|QuanLySinhVien\\QuanLySinhVien.csproj|c:\\users\\duong\\onedrive\\anhttt59(clc)\\ky thuat lap trinh\\c sharp\\quanlysinhvien\\quanlysinhvien\\searchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B6B5A2-1F7C-4C4A-8B5C-5B5D5B5D5B5D}|QuanLySinhVien\\QuanLySinhVien.csproj|solutionrelative:quanlysinhvien\\searchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,98 +17,20 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GUI.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\duong\\OneDrive\\ANHTTT59(CLC)\\Ky thuat lap trinh\\C Sharp\\QuanLySinhVien\\QuanLySinhVien\\GUI.Designer.cs",
-              "RelativeDocumentMoniker": "QuanLySinhVien\\GUI.Designer.cs",
-              "ToolTip": "C:\\Users\\duong\\OneDrive\\ANHTTT59(CLC)\\Ky thuat lap trinh\\C Sharp\\QuanLySinhVien\\QuanLySinhVien\\GUI.Designer.cs",
-              "RelativeToolTip": "QuanLySinhVien\\GUI.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T16:08:46.106Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Update.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\duong\\OneDrive\\ANHTTT59(CLC)\\Ky thuat lap trinh\\C Sharp\\QuanLySinhVien\\QuanLySinhVien\\Update.Designer.cs",
-              "RelativeDocumentMoniker": "QuanLySinhVien\\Update.Designer.cs",
-              "ToolTip": "C:\\Users\\duong\\OneDrive\\ANHTTT59(CLC)\\Ky thuat lap trinh\\C Sharp\\QuanLySinhVien\\QuanLySinhVien\\Update.Designer.cs",
-              "RelativeToolTip": "QuanLySinhVien\\Update.Designer.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T15:57:38.679Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Update.cs",
-              "DocumentMoniker": "C:\\Users\\duong\\OneDrive\\ANHTTT59(CLC)\\Ky thuat lap trinh\\C Sharp\\QuanLySinhVien\\QuanLySinhVien\\Update.cs",
-              "RelativeDocumentMoniker": "QuanLySinhVien\\Update.cs",
-              "ToolTip": "C:\\Users\\duong\\OneDrive\\ANHTTT59(CLC)\\Ky thuat lap trinh\\C Sharp\\QuanLySinhVien\\QuanLySinhVien\\Update.cs",
-              "RelativeToolTip": "QuanLySinhVien\\Update.cs",
-              "ViewState": "AgIAAHwAAAAAAAAAAAAAAI4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T15:49:42.462Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DatabaseHelper.cs",
-              "DocumentMoniker": "C:\\Users\\duong\\OneDrive\\ANHTTT59(CLC)\\Ky thuat lap trinh\\C Sharp\\QuanLySinhVien\\QuanLySinhVien\\DatabaseHelper.cs",
-              "RelativeDocumentMoniker": "QuanLySinhVien\\DatabaseHelper.cs",
-              "ToolTip": "C:\\Users\\duong\\OneDrive\\ANHTTT59(CLC)\\Ky thuat lap trinh\\C Sharp\\QuanLySinhVien\\QuanLySinhVien\\DatabaseHelper.cs",
-              "RelativeToolTip": "QuanLySinhVien\\DatabaseHelper.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAWwEoAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T15:36:42.854Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "QuanLySinhVien",
-              "DocumentMoniker": "C:\\Users\\duong\\OneDrive\\ANHTTT59(CLC)\\Ky thuat lap trinh\\C Sharp\\QuanLySinhVien\\QuanLySinhVien\\QuanLySinhVien.csproj",
-              "RelativeDocumentMoniker": "QuanLySinhVien\\QuanLySinhVien.csproj",
-              "ToolTip": "C:\\Users\\duong\\OneDrive\\ANHTTT59(CLC)\\Ky thuat lap trinh\\C Sharp\\QuanLySinhVien\\QuanLySinhVien\\QuanLySinhVien.csproj",
-              "RelativeToolTip": "QuanLySinhVien\\QuanLySinhVien.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-11T15:28:59.993Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\duong\\OneDrive\\ANHTTT59(CLC)\\Ky thuat lap trinh\\C Sharp\\QuanLySinhVien\\QuanLySinhVien\\Program.cs",
-              "RelativeDocumentMoniker": "QuanLySinhVien\\Program.cs",
-              "ToolTip": "C:\\Users\\duong\\OneDrive\\ANHTTT59(CLC)\\Ky thuat lap trinh\\C Sharp\\QuanLySinhVien\\QuanLySinhVien\\Program.cs",
-              "RelativeToolTip": "QuanLySinhVien\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "SearchForm.cs",
+              "DocumentMoniker": "C:\\Users\\duong\\OneDrive\\ANHTTT59(CLC)\\Ky thuat lap trinh\\C Sharp\\QuanLySinhVien\\QuanLySinhVien\\SearchForm.cs",
+              "RelativeDocumentMoniker": "QuanLySinhVien\\SearchForm.cs",
+              "ToolTip": "C:\\Users\\duong\\OneDrive\\ANHTTT59(CLC)\\Ky thuat lap trinh\\C Sharp\\QuanLySinhVien\\QuanLySinhVien\\SearchForm.cs",
+              "RelativeToolTip": "QuanLySinhVien\\SearchForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T15:28:39.286Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GUI.cs",
-              "DocumentMoniker": "C:\\Users\\duong\\OneDrive\\ANHTTT59(CLC)\\Ky thuat lap trinh\\C Sharp\\QuanLySinhVien\\QuanLySinhVien\\GUI.cs",
-              "RelativeDocumentMoniker": "QuanLySinhVien\\GUI.cs",
-              "ToolTip": "C:\\Users\\duong\\OneDrive\\ANHTTT59(CLC)\\Ky thuat lap trinh\\C Sharp\\QuanLySinhVien\\QuanLySinhVien\\GUI.cs",
-              "RelativeToolTip": "QuanLySinhVien\\GUI.cs",
-              "ViewState": "AgIAAMgAAAAAAAAAAAAwwKUAAAB0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T15:28:28.392Z",
+              "WhenOpened": "2025-05-12T12:10:15.507Z",
               "EditorCaption": ""
             }
           ]

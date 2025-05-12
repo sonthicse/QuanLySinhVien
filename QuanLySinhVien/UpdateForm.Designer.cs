@@ -1,6 +1,6 @@
 ﻿namespace QuanLySinhVien
 {
-    partial class Update
+    partial class UpdateForm
     {
         /// <summary>
         /// Required designer variable.

@@ -53,13 +53,18 @@ partial class GUI
             Dock = DockStyle.Top,
             Font = new Font("Arial", 10)
         };
-
         ToolStripMenuItem menuItemFile = new ToolStripMenuItem("File");
         ToolStripMenuItem menuItemExit = new ToolStripMenuItem("Exit");
         menuItemExit.Click += (s, e) => this.Close();
         menuItemFile.DropDownItems.Add(menuItemExit);
 
+        ToolStripMenuItem menuItemTools = new ToolStripMenuItem("Tools");
+        ToolStripMenuItem menuItemSearch = new ToolStripMenuItem("Search");
+        menuItemTools.DropDownItems.Add(menuItemSearch);
+        menuItemSearch.Click += (sender, e) => MenuItemSearch_Click();
+
         menuStrip.Items.Add(menuItemFile);
+        menuStrip.Items.Add(menuItemTools);
     }
 
     private void InitializeFormProperties()
@@ -110,14 +115,14 @@ partial class GUI
         textBoxMaSinhVien = new TextBox
         {
             PlaceholderText = "202301318",
-            Location = new Point(200, 50),
+            Location = new Point(200, 45),
             Size = new Size(300, 30),
             Font = new Font("Arial", 12)
         };
         textBoxHoVaTen = new TextBox
         {
             PlaceholderText = "Nguyễn Văn A",
-            Location = new Point(200, 100),
+            Location = new Point(200, 95),
             Size = new Size(300, 30),
             Font = new Font("Arial", 12)
         };
@@ -127,7 +132,7 @@ partial class GUI
     {
         comboBoxQuocTich = new ComboBox
         {
-            Location = new Point(1000, 50),
+            Location = new Point(1000, 45),
             Size = new Size(300, 30),
             Font = new Font("Arial", 12),
             Items = { "Việt Nam", "Mỹ" },
@@ -136,7 +141,7 @@ partial class GUI
         };
         comboBoxLop = new ComboBox
         {
-            Location = new Point(1000, 100),
+            Location = new Point(1000, 95),
             Size = new Size(300, 30),
             Font = new Font("Arial", 12),
             Items = { "ANHTTT", "TT" },
@@ -186,7 +191,7 @@ partial class GUI
     {
         dateTimePicker = new DateTimePicker
         {
-            Location = new Point(200, 150),
+            Location = new Point(200, 145),
             Size = new Size(300, 30),
             Font = new Font("Arial", 12),
             Format = DateTimePickerFormat.Custom,
