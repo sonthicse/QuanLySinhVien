@@ -199,7 +199,7 @@ partial class GUI
         dataGridView = new DataGridView
         {
             Location = new Point(50, 300),
-            Size = new Size(1400, 600),
+            Size = new Size(1400, 500),
             Font = new Font("Arial", 12),
             Columns =
             {
