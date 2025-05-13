@@ -39,6 +39,8 @@ namespace QuanLySinhVien
                 row.Visible = isVisible;
             }
 
+            dataGridView.ClearSelection();
+
             this.Close();
         }
     }

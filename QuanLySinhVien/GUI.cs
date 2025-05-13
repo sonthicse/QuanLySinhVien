@@ -122,12 +122,10 @@ namespace QuanLySinhVien
                 return;
             }
 
-            string? selectedMaSinhVien = sinhVien.MaSinhVien;
-
             DialogResult result = MessageBox.Show("Bạn có chắc chắn muốn xóa sinh viên này?", "Xác nhận", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
             if (result == DialogResult.Yes)
             {
-                DatabaseHelper.DeleteSinhVien(selectedMaSinhVien);
+                DatabaseHelper.DeleteSinhVien(sinhVien.MaSinhVien);
                 DatabaseHelper.LoadData(dataGridView);
             }
         }
